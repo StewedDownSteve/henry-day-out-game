@@ -38,4 +38,4 @@ I gained a deep understanding of game development principles, including the intr
 ## Examples:
 Take a look at these couple of examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/
+
