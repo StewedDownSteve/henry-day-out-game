@@ -4,7 +4,9 @@
 # Henry's Day Out
 Welcome to "Henry's Day Out," a 2D action game developed using the Godot engine. This game features Henry, a brave cat exploring an open world filled with various enemies and challenges. The objective is to navigate through the environment, defeat enemies, and collect experience points to enhance Henry's abilities.
 
-
+#### Early Game Play
+Below is a screenshot of some early gameplay, we have small mobs chasing the cat character, the character has an auto claw attack, once the enemy is dead a coin drops that can be collected to add to the player's XP.
+![img of gameplay](https://github.com/StewedDownSteve/henry-day-out-game/blob/main/HDO-gameplay-early-SH.png)
 #### Enemy Pixel Art and Planning
 ![Game Enemy Art](https://github.com/StewedDownSteve/henry-day-out-game/blob/main/henry-game-art1.png)
 #### Player Pixel Art and Planning
