@@ -38,4 +38,10 @@ I gained a deep understanding of game development principles, including the intr
 ## Examples:
 Take a look at these couple of examples that I have in my own portfolio:
 
+**First Godot Game:** https://github.com/StewedDownSteve/gotdot_first_game
+
+**Web Scrapper(Golang):** https://github.com/StewedDownSteve/Go-html-web-scraper
+
+**Project Management App:** https://github.com/StewedDownSteve/ProjectManagment_FS_App
+
 
